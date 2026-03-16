@@ -18,8 +18,9 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoCarvalho&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRodrigoCarvalho&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRodrigoCarvalho&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=DevRodrigoCarvalho&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -43,17 +44,19 @@ Porem posteriormente quero focar em Front-End.
 
 ## 📂 Projetos em destaque
 
-🔹 Portfólio Dev  
-🔹 Landing Page Responsiva  
-🔹 Projeto React  
-🔹 Clone de Interface
+🔹 Em desenvolvimento
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 ## 🌎 Onde me encontrar
 
 <p align="center">
-
 <a href="https://www.instagram.com/dev_rodrigocarvalho/">
 <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram"/>
 </a>
@@ -65,5 +68,4 @@ Porem posteriormente quero focar em Front-End.
 <a href="mailto:dev.rodrigocarvalho@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail"/>
 </a>
-
 </p>
