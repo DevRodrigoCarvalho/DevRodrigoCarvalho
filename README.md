@@ -55,15 +55,15 @@ Porem posteriormente quero focar em Front-End.
 <p align="center">
 
 <a href="https://www.instagram.com/dev_rodrigocarvalho/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rodrigoccarvalho1204/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/>
 </a>
 
 <a href="mailto:dev.rodrigocarvalho@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail"/>
 </a>
 
 </p>
