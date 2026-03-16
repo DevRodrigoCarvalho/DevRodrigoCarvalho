@@ -1,22 +1,69 @@
-## Bem-vindo(a) ao meu perfil 😁
+<h1 align="center">Olá 👋 Eu sou o Rodrigo Carvalho</h1>
 
- <div>
-   <a href="https://github.com/DevRodrigoCarvalho">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRodrigoCarvalho&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://www.instagram.com/dev_rodrigocarvalho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dev.rodrigocarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigoccarvalho1204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+💻 Futuro Desenvolvedor Front-End<br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+📍 São Paulo-SP
+</p>
+
+---
+
+## 🚀 Tecnologias que uso
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,html,css,git,github" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevRodrigoCarvalho&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRodrigoCarvalho&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Atualmente estudando
+
+Atualmente sou aluno da **DevClub**, onde estou participando da formação **DevClub Full Stack Pro**.
+
+Durante a formação estou aprofundando conhecimentos em desenvolvimento **Full Stack**, trabalhando com tecnologias modernas como:
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- Git e GitHub
+
+Porem posteriormente quero focar em Front-End.
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Portfólio Dev  
+🔹 Landing Page Responsiva  
+🔹 Projeto React  
+🔹 Clone de Interface
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="center">
+
+<a href="https://www.instagram.com/dev_rodrigocarvalho/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigoccarvalho1204/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dev.rodrigocarvalho@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
