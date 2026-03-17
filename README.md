@@ -43,7 +43,6 @@ Porem posteriormente quero focar em Front-End.
 ---
 
 ## 📂 Projetos em destaque
-
 🔹 Em desenvolvimento
 
 ---
